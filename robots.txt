@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://ybuweb.github.io/sitemap.xml
